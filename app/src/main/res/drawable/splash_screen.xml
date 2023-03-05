@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item android:drawable="@color/music_color"/>-->
+    <item android:drawable="@color/inverse_music_color"/>
+
+    <item android:drawable="@drawable/big_music_icon"
+        android:gravity="center" />
+
+
+</layer-list>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Music Player</string>
+    <string name="textViewValue">Can\'t show songs as permission is not granted</string>
+    <string name="textViewNoSongsFound">No songs found!</string>
+</resources>
